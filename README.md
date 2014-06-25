@@ -3,7 +3,7 @@ GoogleLocationHistory2Sql
 
 A tool to convert a Google Location History JSON file (from Google Takeout) to SQL (or any string).
 
-> Download the latest version: [xxx](xxx)
+> Download the latest version: [GoogleLocationHistory2Sql_v1.0.0.zip](https://github.com/berrnd/GoogleLocationHistory2Sql/releases/download/1.0.0/GoogleLocationHistory2Sql_v1.0.0.zip)
 
 I quickly hacked this together when I wanted to import my Google Location History into [LiHoCoS](https://github.com/berrnd/LiHoCoS).
 LiHoCoS has a import tool, but my location history was too big (about 130 MB / 630.000 location points).
